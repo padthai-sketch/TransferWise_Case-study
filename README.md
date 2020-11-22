@@ -1,7 +1,8 @@
 ![](https://raw.githubusercontent.com/padthai-sketch/fintech/main/Picture1.png)
+# Case Study: TransferWise
 
+## **Overview**
 ---
-# **Overview**
 TransferWise is a London-based FinTech startup that offers borderless financial transfer services across 50 different currencies. It was established in 2011 by the Estonian former Skype employees, Kristo Käärmann and Taavet Hinrikus. Both of them were working in London when the idea of forming the company came up.
 
 ![](https://raw.githubusercontent.com/padthai-sketch/fintech/main/TW%20CEOs.jpg)
@@ -11,7 +12,8 @@ Every month they had to send money back to Estonia to pay bills and mortgage. Bu
 According to Crunchbase, TransferWise is funded by investors and has raised over $772 million in 10 rounds of venture funding. During its last round of funding in 2019, the company raised $292 million with the final estimate of $3.5 billion.
 
 ---
-# **Business Activities**
+## **Technologies Used**
+---
 The company's mission is to create a better way to send money without borders, with low fees, fast, fair rates, and eventually for free. In Q2 and Q3 of this year, the company has been focusing mainly on the improvement of remittance speed and minimizing the fee.
 
 According to the business canvas developed by Alex Osterwalder et al, ex-pats, freelancers, everyday consumers, and businesses. The company has more than 6 million customers around the world. Expats and freelancers are the major segments that may use either international money transfer service or borderless digital banking. More than 100,000 small and medium-sized businesses opening an account each month.
@@ -21,9 +23,11 @@ The company worked directly with local banks in particular countries such as Hun
 
 The process also helped in removing the middleman between TransferWise and the bank. In other words, the company can gain more profit but choose to pass that back to the users by reducing the transfer fee instead.
 
----
-# **Landscape**
 TransferWise is categorized in Personal Finance and Online Banking section, in which the technologies have been evolving during this past decade. It caused an impact on the banking industry excessively. The eruption of these innovations like Digital Account Opening (DAO), Payment Remittance, Video Marketing, Application Programming Interfaces (APIs), etc., have changed the finance world and consumer behaviors completely. 
+
+---
+## **Strengths and Weaknesses**
+---
 
 ![](https://raw.githubusercontent.com/padthai-sketch/fintech/main/transferwise-card.jpg)
 
@@ -36,21 +40,23 @@ Other leading companies in this platform are WorldRemit, PayPal, Western Union, 
 ![](https://raw.githubusercontent.com/padthai-sketch/fintech/main/1568327798.jpg)
 
 ---
-# **Results**
-Payment processing time, transfer fee, service location is what the company has been trying to improve overtime. To evaluate business success of the compananies in this domain, they are likely to count on the number of new accounts, positive consumer reviews, revenue growth, and the value of stocks. 
+## **Results**
+---
+
+Payment processing time, transfer fee, service location is what TransferWise has been trying to improve overtime. Also, to evaluate business success of the compananies in this domain, they are likely to count on the number of new accounts, positive consumer reviews, revenue growth, and the value of stocks. 
 
 To illustrate, the TransferWise annual revenue and profits report shows the company is profitable and its revenue continues to grow rapidly since 2018. Moreover, Transferwise is rated 4.7/5 on Trustpilot by 100,537 users, with 86% voted for excellent service, which is more than WorldRemit, one of its competitors.
 
 ---
-# **Recommendations**
-If I had to give TransferWise some suggestions, I would have advised them to include *Mobile wallet service for the international transfer* 
+## **Recommendations**
+---
 
-Since the company only supports bank-to-bank transfers, which is quite limited and time-consuming, this could become its weakness compared to the competitor like WorldRemit, whose does have this service in their money transfer.  
+TransferWise should invest in a *mobile wallet service* for international money transfer since the company only supports bank-to-bank transfers, which is quite limited and time-consuming. This could become its weakness compared to the competitor like WorldRemit, whose already have this technology as part of their money transfer service.  
 
-If TransferWise can come up with a mobile wallet service, it will allow users to send money directly to the mobile phones of the recipient overseas. The recipient will receive and can spend money right away. This may help TransferWise overcomes the main issue with payment speed and be more competitive. Additionally, the company is able to extend its market segments, increase the revenue and gain more profit in the long run. 
+ If TransferWise has a mobile wallet services,the users will be able to send money directly to the mobile phones of the recipient overseas. The recipient will receive and can spend money right away. Not only the company is able to extend its market segments but also overcomes the current issue with the payment speed. This would help the company increase revenue and become more competitive in the long run.  
 
 ---
-# *Resources*
+## *Resources*
 - <https://transferwise.com/gb/blog/the-rise-of-fintech>
 - <https://productmint.com/the-transferwise-business-model-how-does-transferwise-make-money/>
 - <https://digital.hbs.edu/platform-digit/submission/transferwise-disruptive-money-transfer/>
