@@ -39,8 +39,7 @@ Other leading companies in this platform are WorldRemit, PayPal, Western Union, 
 
 ![](https://raw.githubusercontent.com/padthai-sketch/fintech/main/1568327798.jpg)
 
----
-## **Results**
+
 
 Payment processing time, transfer fee, service location is what TransferWise has been trying to improve overtime. Also, to evaluate business success of the compananies in this domain, they are likely to count on the number of new accounts, positive consumer reviews, revenue growth, and the value of stocks. 
 
