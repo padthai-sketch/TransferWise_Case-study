@@ -1,11 +1,11 @@
-![](https://raw.githubusercontent.com/padthai-sketch/fintech/main/Picture1.png)
+![](https://raw.githubusercontent.com/padthai-sketch/fintech/main/Picture1.png
 # Case Study: TransferWise
 
 ## **Overview**
 
 TransferWise is a London-based FinTech startup that offers borderless financial transfer services across 50 different currencies. It was established in 2011 by the Estonian former Skype employees, Kristo Käärmann and Taavet Hinrikus. Both of them were working in London when the idea of forming the company came up.
 
-![](https://raw.githubusercontent.com/padthai-sketch/fintech/main/TW%20CEOs.jpg)
+
 
 Every month they had to send money back to Estonia to pay bills and mortgage. But the transfer fee was unreasonably high and the processing time was too long. Käärmann and Hinrikus believed that there must be somehow a better and cheaper way to wire money overseas; they decided to invent TransferWise as a new platform for online money transfer service that allows customers to send money at a low rate with no hidden-fee and much faster than the banks. 
 
@@ -29,15 +29,13 @@ TransferWise is categorized in Personal Finance and Online Banking section, in w
 ## **Strengths and Weaknesses**
 
 
-![](https://raw.githubusercontent.com/padthai-sketch/fintech/main/transferwise-card.jpg)
-
 The companies in this section are more flexible and have a strong focus on customer experience. They simplify financial transaction processes by providing online services with low fees and time-efficient through mobile or web applications. To illustrate, TransferWise also offers a digital-only and borderless bank account besides having international money transfer; the account allows the user to hold over 50 currencies at once and exchange anytime. Moreover, the customers can also request for TransferWise debit Mastercard with no charge, which can be used worldwide at the real exchange rates 
 
 
 
 Other leading companies in this platform are WorldRemit, PayPal, Western Union, MoneyGram, Azimo, CurrencyFair, etc
 
-![](https://raw.githubusercontent.com/padthai-sketch/fintech/main/1568327798.jpg)
+![]
 
 
 
