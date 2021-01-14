@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/padthai-sketch/fintech/main/Picture1.png
+![](https://github.com/padthai-sketch/fintech/blob/main/Transferwise.png)
 # Case Study: TransferWise
 
 ## **Overview**
@@ -29,15 +29,7 @@ TransferWise is categorized in Personal Finance and Online Banking section, in w
 ## **Strengths and Weaknesses**
 
 
-The companies in this section are more flexible and have a strong focus on customer experience. They simplify financial transaction processes by providing online services with low fees and time-efficient through mobile or web applications. To illustrate, TransferWise also offers a digital-only and borderless bank account besides having international money transfer; the account allows the user to hold over 50 currencies at once and exchange anytime. Moreover, the customers can also request for TransferWise debit Mastercard with no charge, which can be used worldwide at the real exchange rates 
-
-
-
-Other leading companies in this platform are WorldRemit, PayPal, Western Union, MoneyGram, Azimo, CurrencyFair, etc
-
-![]
-
-
+The companies in this section are more flexible and have a strong focus on customer experience. They simplify financial transaction processes by providing online services with low fees and time-efficient through mobile or web applications. To illustrate, TransferWise also offers a digital-only and borderless bank account besides having international money transfer; the account allows the user to hold over 50 currencies at once and exchange anytime. Moreover, the customers can also request for TransferWise debit Mastercard with no charge, which can be used worldwide at the real exchange rates. Other leading companies in this platform are WorldRemit, PayPal, Western Union, MoneyGram, Azimo, CurrencyFair, etc.
 
 Payment processing time, transfer fee, service location is what TransferWise has been trying to improve overtime. Also, to evaluate business success of the compananies in this domain, they are likely to count on the number of new accounts, positive consumer reviews, revenue growth, and the value of stocks. 
 
